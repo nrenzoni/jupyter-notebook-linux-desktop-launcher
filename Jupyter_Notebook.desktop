@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Jupyter Notebook
+Exec=launch_jupyter.sh
+Path=/home/trade/Dev
+Comment=Launch Jupyter Notebook in default web browser
+Terminal=false
+Type=Application
+Name[en_US]=Jupyter Notebook
